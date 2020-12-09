@@ -4,7 +4,8 @@
 **Leo-mahesh/Leo-mahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[Facebook Cover - 1(2).pdf](https://github.com/Leo-mahesh/Leo-mahesh/files/5664522/Facebook.Cover.-.1.2.pdf)
+![Group 4](https://user-images.githubusercontent.com/28594629/101606409-5f304080-3a29-11eb-8c19-e9c6a26d1dde.png)
+
 
 
 Here are some ideas to get you started:

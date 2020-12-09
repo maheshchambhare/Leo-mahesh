@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Group 4](https://user-images.githubusercontent.com/28594629/101606409-5f304080-3a29-11eb-8c19-e9c6a26d1dde.png)
 
 <!--
 **Leo-mahesh/Leo-mahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 ![Group 4 1(1)](https://user-images.githubusercontent.com/28594629/101653759-afc58f00-3a65-11eb-9bbd-544089723cbe.png)
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on WebDev Projects
 - 🌱 I’m currently learning Html,CSS,JS

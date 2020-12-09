@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on WebDev Projects
 - 🌱 I’m currently learning Html,CSS,JS
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with React
 - 💬 Ask me about Html,CSS
 - 📫 How to reach me: Chambharem7@gmail.com

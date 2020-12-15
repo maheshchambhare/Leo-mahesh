@@ -12,9 +12,7 @@
 
 
 
-# R E C E N T  **P R O J E C T**
-
-# Footer Project
+# R E C E N T
 ## clone it & try it yourself , Gif's are bad.
 
 ![footer](https://user-images.githubusercontent.com/28594629/102194812-bf205e80-3ee3-11eb-8129-8833c461af62.gif)

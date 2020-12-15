@@ -12,7 +12,7 @@
 
 
 
-# R E C E N T  P R O J E C 
+# R E C E N T  **P R O J E C T**
 
 # Footer Project
 ## clone it & try it yourself , Gif's are bad.

@@ -13,7 +13,7 @@
 
 
 # R E C E N T
-## clone it & try it yourself , Gif's are bad.
+## clone it & try it yourself
 
 https://github.com/Leo-mahesh/WebDev-Footer-01.git
 

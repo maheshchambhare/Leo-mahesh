@@ -19,7 +19,7 @@
 ![Peek 2020-12-21 13-04](https://user-images.githubusercontent.com/28594629/102751138-24190000-438d-11eb-97a4-0d7fb7d29506.gif)
 
 ## 02) Anime-Fan-Page-Survey-Form
-## Link :- https://github.com/Leo-mahesh/Anime-Fan-Page-Survey-form
+## Link :- https://leo-mahesh.github.io/animesurvey.github.com/
 ![Peek 2020-12-19 14-42](https://user-images.githubusercontent.com/28594629/102685770-eee3a500-4208-11eb-8af3-48c0d271396a.gif)
 
 

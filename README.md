@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on WebDev Projects
+- 🔭 I’m currently working on JavaScipt 30 Day Challange Projects
 - 🌱 I’m currently learning Html,CSS,JS
 - 🤔 I’m looking for help with React
 - 💬 Ask me about Html,CSS

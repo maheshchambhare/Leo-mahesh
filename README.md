@@ -6,10 +6,10 @@
 
 
 
-- 🔭 I’m currently working on JavaScipt 30 Day Challange Projects
+- 🔭 I’m currently working on React-Project & Api's
 - 🌱 I’m currently learning Html,CSS,JS
 - 🤔 I’m looking for help with React
-- 💬 Ask me about Html,CSS
+- 💬 Ask me about Html,CSS,JS
 - 📫 How to reach me: Chambharem7@gmail.com
 
 # certificates :-

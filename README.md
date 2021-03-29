@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on React-Project & Api's
-- 🌱 I’m currently learning Html,CSS,JS,react,node
-- 🤔 I’m looking for help with React
+## - 🔭 I’m currently working on a client's project from last few days, it's a react native app which uses geolocation api and tracks the employees on field work
+- 🌱 I’m currently learning Html,CSS,JS,react,node,redux
+- 🤔 I’m looking for help with React-native
 - 💬 Ask me about Html,CSS,JS
 - 📫 How to reach me: Chambharem7@gmail.com
 
